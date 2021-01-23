@@ -1,0 +1,80 @@
+
+
+.top1{display: flex;justify-content: space-around ; width: 1250px;padding-left: 20px;padding-right: 20px;margin-left: 20px;margin-right: 20px;}
+.logo1{width: 268px;height: 68px;}
+.main-haut-droit{display: flex;justify-content: space-between;list-style: none;width: 250px;padding-top: 11px;
+  font-size: .9375rem;
+  font-weight: 400;
+  line-height: 2em;
+  font-family: Roboto,Arial,sans-serif;
+  color: #747474;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;}
+
+.logo{width: 40px;height: 40px;}
+.logoplace{width: 40px;margin-right: auto;margin-left: auto;margin-top: 15px;margin-bottom: 15px;padding-top: 2px;padding-bottom: 2px;}
+
+div h1{  width: max-content;margin-left: auto;margin-right: auto;margin-top: 34px;margin-bottom: 34px;text-align: center;color: #00b39b;font-family: "Work Sans";src: url(https://fonts.gstatic.com),Arial,sans-serif;letter-spacing: 3px;font-weight:lighter ;}
+.para1{width: 50%;height: 67px;padding-top: 10px;padding-bottom: 10px;padding-right: 10px;padding-left: 10px;
+
+  font-weight: 400;
+  font-family: Roboto,Arial,sans-serif;
+  color: #747474;
+  -webkit-font-smoothing: antialiased; font-size: 16px;
+  line-height: 30px;}
+ 
+.para1-2{padding-left: 200px;padding-right: 200px;display: flex;justify-content: space-between;}
+
+.part{display: flex; justify-content: space-around; justify-content: space-between;width: 900px; height: 365px;margin-top: 150px;margin-bottom: 40px;margin-left: auto;margin-right: auto;}
+.part1{width: 260px;height: 345px;background-color: #00b39b;border-radius: 10px;}
+.part2{width: 260px;height: 345px;background-color: #3d83df;border-radius: 10px;}
+.part3{width: 260px;height: 345px;background-color: #1b2734;border-radius: 10px;}
+.parttext{margin-top: 30px;margin-left: 25px;}
+.textstyleh1{font-family: Work Sans,Arial,sans-serif;letter-spacing: -.3px;line-height: 1.3;font-size: 1.625em;font-weight: 400;color: #fff;margin: .3em 0;}
+.textstyleh2{font-size: 1.5em;font-weight: unset;font-size: 22px;line-height: 1.2; margin: 0;color: #fff;font-family: Work Sans,Arial,sans-serif;letter-spacing: -.3px;box-sizing: inherit;margin-block-start: 0.83em;margin-block-end: 0.83em;margin-inline-start: 0px;margin-inline-end: 0px;}
+.select{width: 100%;background: transparent;border: 0;border-radius: 0;padding: 0 2em 0 0;outline: 0;text-transform: none;cursor: pointer;color: inherit;font: inherit;margin: 0;}
+ span{color: white;text-decoration: underline;}
+.selectt{margin-top: 30px;margin-left: 25px;}
+#h11{margin-left: 215px;width: 250px;text-align: left;}
+.part4{display: flex;}
+.pp{display: flex ;flex-wrap: wrap;list-style: none;justify-content: space-between;line-height: 50px;}
+.AA{width: 720px;}
+.partibleu{;height: 600px;background: #e5faf8;display: flex;
+  background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+  padding: 1.875em 0 .625em;
+  overflow: hidden;
+  margin: 3.125rem auto 5.5rem;}
+ .div1 p{margin-left: 237px;width: 410px;font-family: Roboto,Arial,sans-serif;
+  color: #747474;}
+ .div1 h1{width: 400px;margin-left: 190px;}
+ .aaa{width: 750px;height: 650px;margin: 10px;}
+ .imagee{margin-right: 120px;margin-left: 120px;}
+ .part111{display: flex;}
+ .part22{display: flex;}
+ .standard1{width: 375px;height: 220px;padding: 15px;margin: 10px;background-color: white;border-radius: 10px;}
+ .standard1  p{text-align: center;width: max-content;font-family: Roboto,Arial,sans-serif ;color: #747474;margin-left: auto;margin-right: auto;}
+.fer {width: 470px;}
+.for{font-family: Roboto,Arial,sans-serif ;color: #747474 ;text-align: center;width: 700px;margin-right: auto;margin-left: auto}
+
+.partimag{width: 1000px;height: 1111px;margin-top: 90px;margin-left: 150px;margin-right: 150px;display: flex;flex-wrap: wrap;align-items: stretch;}
+.example{width: 331px;height: 370px;}
+.btn btn--small{background-color: blue;}
+.textbe{display: flex;width: 280px;height: 33px;justify-content: space-between;}
+.parag{font-size: 15px;padding : 0px;
+  box-sizing: inherit;color: #747474; margin-top: 10px;margin-left: 0px;
+}
+.buttom{font-size: 13px;margin-top: px;background-color: #3d83df;border-radius: 5px;width: 99px;padding: 10px;font-weight: 600;color: #fff; font-family:  Roboto,Arial,sans-serif}
+.section1{text-align: center;margin-top: 100px;}
+.septext{font-size: 2.1428571429em;
+  color: #333;
+  margin-bottom: .75em;font-family: Work Sans,Arial,sans-serif;
+  font-weight: 300;
+  letter-spacing: -.3px}
+.buttomm{background-color: #3d83df;border-radius: 5px;font-weight: 600;color: #fff;width: 300px;height: 30px;padding-top: 15px;margin-left: auto;margin-right: auto; font-family:  Roboto,Arial,sans-serif}
+footer{width: 1415px;height: 118px;padding-top: 16px;padding-bottom: 16px;border-top: 1px solid #eef2f2;border-top: 1px solid #eef2f2;
+  text-align: center;color: #747474;
+  padding: 1em 0;
+  text-align: center;
+  padding: 1em 0;}
+.footrrr{text-align: center;}
+
